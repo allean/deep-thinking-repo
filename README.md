@@ -40,7 +40,7 @@ Phase 3   跟踪提案（可选）/ Evolver（迭代之间的方向纠偏）
 ## 安装
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/allean/deep-thinking-repo.git
 cd deep-thinking-repo
 
 # 部署到所有检测到的目标（Claude Code + Kimi CLI）
